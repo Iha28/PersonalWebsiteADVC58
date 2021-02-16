@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: arial;
+}
+#section1 {
+    background: linear-gradient(#ebcf34,#ebe534,#d9eb34,#b4eb34)
+}
+#image1 {
+    margin: 20px;
+    border-radius: 50%;
+}
+#name {
+    font-size: 20px;
+}
+#section2 {
+    background: linear-gradient(#34c9eb,#34abeb,#3480eb)
+}
